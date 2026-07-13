@@ -1,5 +1,5 @@
 # local_map_publisher  
-Ros2 Jazzy で、Static Map を、publish します。  
+Ros2 Jazzy で、Static Map を、/local_map topic で、publish します。  
 
 1. build  
    $ cd ~/colcon_ws-jazzy/src  
